@@ -4,7 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class Main {
-
+	
 	public static void main(String[] args) {
 
 		Scanner scanner = new Scanner(System.in);
@@ -13,7 +13,7 @@ public class Main {
 		int missing = random.nextInt(10)+1;
 		int guess =0;
 		int lives = 0;
-		System.out.println("Guess the number!");
+		System.out.println("Guess the number! by Arvey05");
 		System.out.println("you have 3 lives");
 		
 		
